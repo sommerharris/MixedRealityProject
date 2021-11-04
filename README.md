@@ -1,4 +1,4 @@
-# Mixed Reality FinalProject
+# Mixed Reality Final Project
 Welcome to our repo for Northeastern's mixed reality course. This repository was put together by Sommer Harris and Thitikorn (Neal) Pongmorrakot. 
 The folder 'CS5097_AR_SOMMER_AND_NEIL' contains code for a collaborative AR project, and the folder 'CS5097_VR_SOMMER_AND_NEAL' contains code for our collaborative VR project. This readme will focus on showcasing the VR project.
 
