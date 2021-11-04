@@ -1,5 +1,5 @@
 # Mixed Reality Final Project
-Welcome to our repo for Northeastern's mixed reality course. This repository was put together by Sommer Harris and Thitikorn (Neal) Pongmorrakot. 
+Welcome to our repo for Northeastern's mixed reality course. This repository was put together by Sommer Harris and Thitikorn (Neal) Pongmorrakot. In this class we explored using Unity for VR and AR application, and learned coding in C#. We used the online unitylearn resources.
 The folder 'CS5097_AR_SOMMER_AND_NEIL' contains code for a collaborative AR project, and the folder 'CS5097_VR_SOMMER_AND_NEAL' contains code for our collaborative VR project. This readme will focus on showcasing the VR project.
 
 Video trailer of the user experience for our final VR project: https://youtu.be/4Va97lnYIZ4
